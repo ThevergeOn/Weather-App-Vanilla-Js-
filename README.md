@@ -1,3 +1,4 @@
 # Weather-App-Vanilla-Js-
-
-<img align="center" src="./preview.png"/>
+<div align="center">
+  <img  src="./preview.png"/>
+</div>
